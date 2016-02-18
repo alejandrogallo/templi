@@ -42,7 +42,7 @@ setup(
         'Intended Audience :: Developers'
     ],
 
-    scripts          = [],
+    scripts          = ["tools/templi"],
     install_requires = requireModules([
         "pystache"
         ]),
